@@ -9,4 +9,4 @@
     
 
   
-    ![Snake animation](https://github.com/JoaoVitorFernandesFirmino/JoaoVitorFernandesFirmino/blob/output/github-contribution-grid-snake.svg)
+    !(https://github.com/JoaoVitorFernandesFirmino/JoaoVitorFernandesFirmino/blob/output/github-contribution-grid-snake.svg)
