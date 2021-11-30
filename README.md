@@ -1,6 +1,11 @@
 
-<b> <p align=center> Olá, Eu sou o João! </b>
-  ##
+
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoaoVitorFernandesFirmino/9fb8fc52a48f33890036a8d7fb4aeee2/raw/f47e077aedd7ed15907fed9340a781a878e5d8d5/cardfirmino.svg">
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Firmino</h1>
+
+
+ 
+ ##
   
   <div align="center">
   <a href="https://github.com/joaovitorfernandesfirmino">
@@ -20,3 +25,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  
+
+
