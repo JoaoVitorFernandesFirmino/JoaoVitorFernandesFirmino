@@ -25,6 +25,31 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+ 
+ ##
+ 
+
+
+  👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://codepen.io/joaovitorfernandesfirmino" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-joaovitorfernandesfirmino-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+
+<a href="https://br.linkedin.com/in/joaovitorfernandesfirmino" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-joaovitorfernandesfirmino-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/joao.fernandeez/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-joao.fernandeez-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://www.youtube.com/channel/UC0qM6HOWGgpbQggNF_rPb8g" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-estudomania-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+</p>
+
+
+
   
 
 
