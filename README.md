@@ -7,19 +7,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorfernandesfirmino&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   </DIV>
   
-<div style="display: inline_block">
-  
-## Tecnologias que eu uso no meu dia
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
- <img align="center" alt="windows"src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
-  
-  
 ##
-  
-  
-
 <img src="https://github.com/joaovitorfernandesfirmino/joaovitorfernandesfirmino/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
+  
+    
+## &nbsp;🛠 Tecnologias que eu uso no meu dia
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
