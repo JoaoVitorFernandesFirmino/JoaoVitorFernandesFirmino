@@ -2,9 +2,16 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoaoVitorFernandesFirmino/9fb8fc52a48f33890036a8d7fb4aeee2/raw/f47e077aedd7ed15907fed9340a781a878e5d8d5/cardfirmino.svg">
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Firmino</h1>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovitorfernandesfirmino&color=red" alt="Profile views" /> </p>
+
+:office: &nbsp;I'm currently unemployed
+- :seedling: &nbsp;I’m currently learning **HTML&CSS design and build websites**
+- :speech_balloon: &nbsp;I like to talk about **technology** and **personal development**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+
+
 <img src="https://github.com/joaovitorfernandesfirmino/joaovitorfernandesfirmino/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
   
@@ -48,8 +55,12 @@
    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorfernandesfirmino&layout=compact&theme=vision-friendly-dark" alt="joaovitorfernandesfirmino's most languages"/>
   ##
    </DIV>
+  
+  <!-- links -->
+[issues page]: https://github.com/joaovitorfernandesfirmino/joaovitorfernandesfirmino/issues "Joao/issues"
+[linkedin]: https://br.linkedin.com/in/joaovitorfernandesfirmino "João Firmino LinkedIn"
  
- <img src="https://github.com/joaovitorfernandesfirmino/joaovitorfernandesfirmino/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+
 
   
 
