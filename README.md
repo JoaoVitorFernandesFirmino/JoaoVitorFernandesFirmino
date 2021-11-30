@@ -4,21 +4,12 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Firmino</h1>
 
 
- 
- ##
-  
-  <div align="center">
-  <a href="https://github.com/joaovitorfernandesfirmino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorfernandesfirmino&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  </DIV>
-  
-
-##
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovitorfernandesfirmino&color=red" alt="Profile views" /> </p>
 <img src="https://github.com/joaovitorfernandesfirmino/joaovitorfernandesfirmino/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
   
     
-## &nbsp;🛠 Tecnologias que eu uso no meu dia
+## 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -26,11 +17,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
  
- ##
- 
 
 
-  👨🏽‍🦲 &nbsp;Social Links
+
+
+  ## 👨🏽‍🦲 &nbsp;Social Links
+
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/joaovitorfernandesfirmino" target="_blank">
@@ -48,6 +40,18 @@
 </a>
 </p>
 
+ ##
+ ## ⚙️ &nbsp;GitHub Analytics
+  <div align="center">
+  <a href="https://github.com/joaovitorfernandesfirmino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorfernandesfirmino&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorfernandesfirmino&layout=compact&theme=vision-friendly-dark" alt="joaovitorfernandesfirmino's most languages"/>
+  ##
+   </DIV>
+ 
+ <img src="https://github.com/joaovitorfernandesfirmino/joaovitorfernandesfirmino/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+
+  
 
 
   
