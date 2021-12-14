@@ -1,6 +1,6 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoaoVitorFernandesFirmino/9fb8fc52a48f33890036a8d7fb4aeee2/raw/f47e077aedd7ed15907fed9340a781a878e5d8d5/cardfirmino.svg">
-<h1 align="left"> Hey, I'm João Firmino <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="left"> Hey, I'm João Firmino! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=joaovitorfernandesfirmino&color=red" alt="Profile views" /> </p>
 
 
